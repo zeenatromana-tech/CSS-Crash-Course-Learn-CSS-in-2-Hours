@@ -1,0 +1,14 @@
+<!-- Selectors target HTML elements. -->
+
+<!-- Element Selector -->
+p {
+  color: black;
+}
+Class Selector
+.box {
+  background-color: lightblue;
+}
+ID Selector
+#title {
+  color: green;
+}
