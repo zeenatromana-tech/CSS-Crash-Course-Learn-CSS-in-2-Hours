@@ -1,0 +1,10 @@
+<!-- Inline CSS -->
+<h1 style="color: red;">Hello</h1>
+<!-- Internal CSS -->
+<style>
+h1 {
+  color: blue;
+}
+</style>
+<!-- External CSS (Recommended) -->
+<link rel="stylesheet" href="style.css">
