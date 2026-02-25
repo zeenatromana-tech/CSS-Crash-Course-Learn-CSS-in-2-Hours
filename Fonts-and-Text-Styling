@@ -1,0 +1,18 @@
+p {
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+Common properties:
+
+font-size
+
+font-family
+
+text-align
+
+font-weight
+
+line-height
