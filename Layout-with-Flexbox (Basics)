@@ -1,0 +1,19 @@
+Flexbox helps create responsive layouts.
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+Example layout:
+
+.container {
+  display: flex;
+  gap: 20px;
+}
+
+.box {
+  padding: 20px;
+  background: lightblue;
+}
