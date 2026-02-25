@@ -1,0 +1,13 @@
+<!-- CSS works using selectors and properties. -->
+
+selector {
+  property: value;
+}
+
+Example:
+
+h1 {
+  color: blue;
+}
+
+<!-- This changes the heading color to blue. -->
