@@ -1,0 +1,24 @@
+Every HTML element is a box consisting of:
+
+Content
+
+Padding
+
+Border
+
+Margin
+
+Example:
+
+.box {
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid black;
+}
+
+Diagram:
+
+Margin
+ └ Border
+   └ Padding
+     └ Content
